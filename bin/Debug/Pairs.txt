@@ -1,0 +1,11 @@
+0;Monday;10.50 - 12.25;asd;asd;asd
+1;Monday;10.50 - 12.25;asd;asdd;asdd
+2;Monday;10.50 - 12.25;asd;asddd;asddd
+3;Monday;10.50 - 12.25;asdfsdfsdfsf;asdddsf;asdddf
+5;Monday;10.50 - 12.25;asd;asddsdsd;adssdsd
+4;Monday;12.40 - 14.15;asd;asd;ads
+9;Tuesday;09.00 - 10.35;asd;asddsdsd;adssdsd
+8;Wednesday;09.00 - 10.35;asd;asddsdsd;adssdsd
+7;Thursday;09.00 - 10.35;asd;asddsdsd;adssdsd
+6;Thursday;10.50 - 12.25;asd;asddsdsd;adssdsd
+10;Friday;09.00 - 10.35;asd;asddsdsd;adssdsd
